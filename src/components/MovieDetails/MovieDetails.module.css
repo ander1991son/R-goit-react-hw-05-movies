@@ -1,0 +1,30 @@
+.movieDetails {
+  display: flex;
+  gap: 20px;
+}
+
+.Movieimg {
+  width: 100%;
+}
+
+.movieinfo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.movietext {
+  font-size: 15px;
+}
+
+button {
+  border: none; /* Elimina el borde */
+  background-color: transparent; /* Hace el fondo transparente */
+  font: inherit; /* Usa la fuente heredada para mantener la apariencia del texto */
+  cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+}
+
+.movienavlink {
+  border: solid 1px gray;
+  padding-bottom: 20px;
+}

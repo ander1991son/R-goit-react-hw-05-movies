@@ -1,0 +1,6 @@
+.NavLink {
+  display: flex;
+  gap: 20px;
+  border-bottom: solid 2px gray;
+  padding: 20px;
+}
