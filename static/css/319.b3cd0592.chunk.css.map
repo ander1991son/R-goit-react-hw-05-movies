@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/319.b3cd0592.chunk.css","mappings":"AAAA,uBAGE,4BAA6B,CAF7B,YAAa,CACb,QAAS,CAET,YACF","sources":["components/Navbar/Navbar.module.css"],"sourcesContent":[".NavLink {\n  display: flex;\n  gap: 20px;\n  border-bottom: solid 2px gray;\n  padding: 20px;\n}\n"],"names":[],"sourceRoot":""}
